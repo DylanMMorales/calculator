@@ -1,1 +1,5 @@
-// Replace with code
+function power(a, b) {
+  return Math.pow(a, b);
+}
+
+module.exports = { power };

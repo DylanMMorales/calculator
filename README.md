@@ -23,7 +23,7 @@ This project requires [Node.js](https://nodejs.org/) to be installed on your sys
 1.  Install as a devDependencies:
 
     ```bash
-    npm install @yourname/calculator --save-dev
+    npm install @dylanmoralesmurillo/calculator --save-dev
     ```
 
 
@@ -32,7 +32,7 @@ This project requires [Node.js](https://nodejs.org/) to be installed on your sys
 To use the calculator, run the script with three arguments:
 
 ```bash
-npx calculator.js number operator number
+npx @dylanmoralesmurillo/calculator number operator number
 ```
 
 Examples:
